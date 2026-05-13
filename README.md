@@ -2,6 +2,9 @@
 
 **GeoDisplay Calculator**는 디스플레이의 물리적 규격과 해상도 데이터를 기반으로 **화면 비율(Ratio), mm/inch 단위 길이, 픽셀 피치(Pixel Pitch)**를 정밀하게 계산하고 시각화하는 C++/SFML 기반 엔지니어링 도구입니다.
 
+<img width="627" height="722" alt="스크린샷 2026-05-14 024300" src="https://github.com/user-attachments/assets/73e2ea7b-1765-4e24-904f-dd30a4b6cec5" />
+
+
 ---
 
 ## ■ 주요 기능 (Key Features)
