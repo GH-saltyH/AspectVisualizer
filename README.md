@@ -30,7 +30,9 @@
 ## ■ 기술 스택 및 라이브러리 (Tech Stack)
 
 ● **Core Language**: C++ (C++17 이상 권장)
+
 ● **Graphics Library**: [SFML (Simple and Fast Multimedia Library)](https://www.sfml-dev.org/)
+
 ● **OS 환경**: Windows (폰트 경로: `C:/Windows/Fonts/Arial.ttf` 참조)
 
 ---
@@ -57,6 +59,8 @@
 
 ---
 
-**Developer**: [Your Name/GitHub ID]
-**Version**: 1.0.0
-**License**: MIT License
+**Developer**: [GH-saltyH] 
+
+**Version**: 1.0.0 
+
+**License**: MIT License 
